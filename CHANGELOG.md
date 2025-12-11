@@ -1,5 +1,17 @@
 # Changelog
 
+### v1.0.54 (2025-12-11)
+
+**Bug fixes:**
+
+- \[PATCH] fix: update npmrc (● [2e3fc05](https://github.com/c0rejs/geoip-asn/commit/2e3fc05); 👬 zdm)
+
+**Other changes:**
+
+- build: migrate to c0rejs namespace (● [04db714](https://github.com/c0rejs/geoip-asn/commit/04db714); 👬 zdm)
+
+Compare with the previous release: [v1.0.53](https://github.com/c0rejs/geoip-asn/compare/v1.0.53...v1.0.54)
+
 ### v1.0.53 (2025-12-10)
 
 **Other changes:**
