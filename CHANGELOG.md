@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.0.62 (2026-03-18)
+
+**Other changes:**
+
+- chore(metadata): update package metadata (● [c937470](https://github.com/corejslib/geoip-asn/commit/c937470); 👬 zdm)
+
+Compare with the previous release: [v1.0.61](https://github.com/corejslib/geoip-asn/compare/v1.0.61...v1.0.62)
+
 ### v1.0.61 (2026-03-06)
 
 **Other changes:**
