@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.0.66 (2026-05-16)
+
+**Other changes:**
+
+- docs: update (● [e42b7da](https://github.com/corejslib/geoip-asn/commit/e42b7da); 👬 zdm)
+
+Compare with the previous release: [v1.0.65...v1.0.66](https://github.com/corejslib/geoip-asn/compare/v1.0.65...v1.0.66)
+
 ### v1.0.65 (2026-05-16)
 
 **Other changes:**
