@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.0.67 (2026-05-28)
+
+**Other changes:**
+
+- build: remove registries from .npmrc (● [744a683](https://github.com/corejslib/geoip-asn/commit/744a683); 👬 zdm)
+
+Compare with the previous release: [v1.0.66...v1.0.67](https://github.com/corejslib/geoip-asn/compare/v1.0.66...v1.0.67)
+
 ### v1.0.66 (2026-05-16)
 
 **Other changes:**
