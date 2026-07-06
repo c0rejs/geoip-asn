@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.0.68 (2026-07-06)
+
+**Other changes:**
+
+- build(deps): bunp @corejslib/core@^8.0.0 (● [1dddbd6](https://github.com/corejslib/geoip-asn/commit/1dddbd6); 👬 zdm)
+
+Compare with the previous release: [v1.0.67...v1.0.68](https://github.com/corejslib/geoip-asn/compare/v1.0.67...v1.0.68)
+
 ### v1.0.67 (2026-05-28)
 
 **Other changes:**
