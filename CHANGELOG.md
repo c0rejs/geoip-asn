@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.0.70 (2026-08-01)
+
+**Other changes:**
+
+- chore: rename softvisio to corejslib (● [6c15095](https://github.com/corejslib/geoip-asn/commit/6c15095); 👬 zdm)
+
+Compare with the previous release: [v1.0.69...v1.0.70](https://github.com/corejslib/geoip-asn/compare/v1.0.69...v1.0.70)
+
 ### v1.0.69 (2026-08-01)
 
 **Bug fixes:**
