@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.0.69 (2026-08-01)
+
+**Bug fixes:**
+
+- \[PATCH] fix: update package keywords (● [8190c6b](https://github.com/corejslib/geoip-asn/commit/8190c6b); 👬 zdm)
+
+Compare with the previous release: [v1.0.68...v1.0.69](https://github.com/corejslib/geoip-asn/compare/v1.0.68...v1.0.69)
+
 ### v1.0.68 (2026-07-06)
 
 **Other changes:**
