@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.0.72 (2026-08-28)
+
+**Bug fixes:**
+
+- \[PATCH] fix: fix shebang (● [6c0dd90](https://github.com/corejslib/geoip-asn/commit/6c0dd90); 👬 zdm)
+
+Compare with the previous release: [v1.0.71...v1.0.72](https://github.com/corejslib/geoip-asn/compare/v1.0.71...v1.0.72)
+
 ### v1.0.71 (2026-08-04)
 
 **Other changes:**
